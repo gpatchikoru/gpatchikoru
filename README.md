@@ -1,9 +1,7 @@
 ## Hi there 👋
 
+[![An image of @gpatchikoru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gpatchikoru)](https://holopin.io/@gpatchikoru)
 
-<a href='https://holopin.io/@gpatchikoru'>
-    <img src='https://holopin.onrender.com/gpatchikoru'/>
-</a>
 **gpatchikoru/gpatchikoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
